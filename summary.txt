@@ -1,0 +1,3 @@
+No of Vowel characters is : 11
+No of Consonant characters is : 25
+No of Space characters is : 8
